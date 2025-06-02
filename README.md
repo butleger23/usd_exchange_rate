@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 python manage.py migrate
 ```
-Выполнить
+Запуск приложения
 ```
 python manage.py runserver
 ```
